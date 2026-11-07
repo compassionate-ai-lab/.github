@@ -19,10 +19,10 @@ For an AI agent, these commitments lead to concrete engineering questions. What 
 
 ## Six primary mottos
 
-1. **Relieve suffering.** Ease individual suffering and help communities reduce shared hardship.
-2. **Create more jobs and new opportunities.** Expand meaningful work and help people build skills they can use.
+1. **Relieve suffering.** To ease individual suffering, social sufferings, community sufferings, planetary sufferings,  and help communities reduce shared hardship.
+2. **Create more jobs and new opportunities.** Expand AI for creating more jobs and new opportunities for humanity, and create meaningful work and help people build skills they can use.
 3. **Serve where lives are at risk.** Support disaster response, search and rescue, humanitarian relief, and peacekeeping.
-4. **Apply No-Harm Principles.** Prevent foreseeable harm and take responsibility when harm occurs.
+4. **Apply No-Harm Principles.** Prevent foreseeable harm, stopping medical harms, stopping wars and bringing peace,  and take responsibility when harm occurs.
 5. **Protect dignity and choice.** Give people the power to understand, challenge, and stop AI decisions that affect their lives.
 6. **Care for Earth and future generations.** Protect ecosystems, strengthen climate resilience, and preserve the resources that sustain life.
 
