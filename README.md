@@ -17,13 +17,13 @@ For an AI agent, these commitments lead to concrete engineering questions. What 
 
 [Browse all repositories](https://github.com/orgs/compassionate-ai-lab/repositories)
 
-## Six primary mottos
+## Six Primary Mottos of Sri Amit Ray Compassionate AI
 
-1. **Relieve suffering.** Ease individual suffering and help communities reduce shared hardship.
-2. **Create more jobs and new opportunities.** Expand meaningful work and help people build skills they can use.
-3. **Serve where lives are at risk.** Support disaster response, search and rescue, humanitarian relief, and peacekeeping.
-4. **Apply No-Harm Principles.** Prevent foreseeable harm and take responsibility when harm occurs.
-5. **Protect dignity and choice.** Give people the power to understand, challenge, and stop AI decisions that affect their lives.
+1. **Relieve suffering.** Expand AI to ease and reduce individual suffering, social suffering, community suffering, and planetary suffering, and help communities reduce shared hardships.
+2. **Create more jobs and new opportunities.** Expand AI to create more jobs, foster meaningful work, provide new opportunities for humanity to flourish, and help people build useful skills.
+3. **Serve where lives are at risk.** Support disaster response, search and rescue, humanitarian relief, AI assistance for floods and earthquakes, and peacekeeping.
+4. **Apply No-Harm Principles.** Prevent foreseeable harm, enhance human safety, stop wars, prevent medical research harms, and take responsibility when harm occurs.
+5. **Protect dignity and choice.** Improve human dignity and freedom, giving people the power to understand, challenge, and stop AI decisions that affect their lives.
 6. **Care for Earth and future generations.** Protect ecosystems, strengthen climate resilience, and preserve the resources that sustain life.
 
 ## Work with the code
