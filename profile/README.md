@@ -34,7 +34,7 @@ For an AI agent, these commitments lead to concrete engineering questions. What 
 
 Open the relevant repository and follow its setup and test instructions. If you reproduce an example or find a failure case, use the repository's issue tracker where available. Include the example or chapter, the version you ran, the expected result, and what happened. See each repository's license for terms of reuse.
 
-## Creating positive future
+## Motto: Creating positive future
 Developing computational AI models that can recognize, understand, and respond to suffering of the society with appropriate compassionate action. Applying the AI models that can care, so that society can benefit from AI in reducing extreme poverty, reducing sufferings, solving international issues, preventing health problems, creating more job opportunities, providing quality education, clean water and sanitation, affordable and clean energy, and supporting the creation of circular economies and smart cities that efficiently use their resources.
 [Explores the Future of AI, Human Development and Human Dignity](https://www.researchgate.net/publication/414866678_Sri_Amit_Ray_Compassionate_AI_UN_2030_and_the_17_SDGs_Principles_Architectures)
 
