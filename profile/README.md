@@ -3,20 +3,23 @@
 
 **Founded by Dr. Sri Amit Ray**
 
-We study how to build AI systems that relieve suffering, expand human opportunity, and keep people in control of decisions that affect them. Our work connects **agentic AI reliability**, **Ahimsa and No-Harm Principles**, and the **architecture and alignment of advanced AI systems**.
+We study how to build AI systems that relieve suffering, expand human opportunity, and keep people in control of decisions that affect them. Our work connects **Ethical AI**, **agentic AI reliability**, **Ahimsa and No-Harm Principles**, and the **Superintelligence architecture and alignment of advanced AI systems**.
 
 For an AI agent, these commitments lead to concrete engineering questions. What is the agent authorized to do? What evidence shows that it completed the task? Who can stop it and correct the outcome if something goes wrong?
 
 ## Start with a project
 
-| Project | What to explore | Companion code |
+| Code repository | What to explore | Publication |
 | --- | --- | --- |
-| [AI Agent Reliability Engineering](https://sriamitray.com/ebooks/ai-agent-reliability-engineering/) | Use mission contracts, the Agentic Reliability Index (ARI), and the offline FlexiAgent lab to evaluate whether agents complete tasks reliably. | [Repository](https://github.com/compassionate-ai-lab/ai-agent-reliability) |
-| [No-Harm Principles in AI Architectures](https://sriamitray.com/ebooks/no-harm-principles-in-ai-architectures/) | Work through algorithms and examples for applying No-Harm Principles in multi-agent AI systems. | [Repository](https://github.com/compassionate-ai-lab/no-harm-principles) |
-| [Ahimsa in Agentic AI](https://sriamitray.com/ebooks/ahimsa-in-agentic-ai/) | Explore how the principle of non-injury can shape what individual agents are allowed to do. | [Repository](https://github.com/compassionate-ai-lab/ahimsa-in-agentic-ai) |
-| [Compassionate Superintelligence](https://sriamitray.com/ebooks/compassionate-superintelligence/) | Explore architecture, alignment, and worked examples for incorporating compassion into increasingly capable AI systems. | [Repository](https://github.com/compassionate-ai-lab/compassionate-superintelligence) |
+| [AI Agent Reliability Engineering](https://github.com/compassionate-ai-lab/ai-agent-reliability) | Use mission contracts, the Agentic Reliability Index (ARI), and the offline FlexiAgent lab to evaluate whether agents complete tasks reliably. | [Book](https://sriamitray.com/ebooks/ai-agent-reliability-engineering/) |
+| [No-Harm Principles in AI Architectures](https://github.com/compassionate-ai-lab/no-harm-principles) | Work through algorithms and examples for applying No-Harm Principles in multi-agent systems. | [Book](https://sriamitray.com/ebooks/no-harm-principles-in-ai-architectures/) |
+| [Ahimsa in Agentic AI](https://github.com/compassionate-ai-lab/ahimsa-in-agentic-ai) | Explore how the principle of non-injury can shape what individual agents are allowed to do. | [Book](https://sriamitray.com/ebooks/ahimsa-in-agentic-ai/) |
+| [Ethical AI Systems](https://github.com/compassionate-ai-lab/ethical-ai-systems) | Use the companion toolkit and forms workbook to document and evaluate how AI systems are governed. | [Book](https://sriamitray.com/ebooks/ethical-ai-systems/) |
+| [Compassionate Superintelligence](https://github.com/compassionate-ai-lab/compassionate-superintelligence) | Explore architectures, alignment methods, and worked examples for incorporating compassion into advanced AI systems. | [Book](https://sriamitray.com/ebooks/compassionate-superintelligence/) |
+| [The Superintelligence Race](https://github.com/compassionate-ai-lab/superintelligence-race) | Use the companion code, Colab notebook, and workbooks to explore AGI scenarios, global power, and strategic choices. | [Book](https://sriamitray.com/ebooks/the-superintelligence-race-and-agi/) |
 
 [Browse all repositories](https://github.com/orgs/compassionate-ai-lab/repositories)
+
 
 ## Six Primary Mottos of Sri Amit Ray Compassionate AI
 
